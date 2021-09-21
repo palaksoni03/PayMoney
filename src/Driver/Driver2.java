@@ -29,7 +29,7 @@ public class Driver2 {
 	            }
 	        }
 
-	        System.out.println("Enter the amount you want to pay");
+	        System.out.println("Enter the amount you want to pay : :");
 
 	        int amount = new Scanner(System.in).nextInt();
 
