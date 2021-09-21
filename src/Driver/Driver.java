@@ -29,9 +29,7 @@ public class Driver {
 			         }else {   
 					     System.out.println("The target is not achieved");
 			         }
-			  }
-		      
-		      
+			  }		      
 		     
 		   }
 		}

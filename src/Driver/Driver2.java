@@ -8,7 +8,7 @@ public class Driver2 {
 	 static int arraySize;
 
 	    public static void main(String args[]){
-	        System.out.println("Enter the size of currency denominations");
+	        System.out.println("Enter the size of currency denominations : :");
 	        arraySize = new Scanner(System.in).nextInt();
 
 	        int[] array =new int[arraySize];
